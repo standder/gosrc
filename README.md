@@ -13,6 +13,7 @@
 >go语言的基础应用
 
 ## 数据类型相关问题
+问题来源gosrc/basic
 int数据与float64数据做运算时会出现报错
 ```
 package main
