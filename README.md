@@ -30,3 +30,5 @@ func main(){
 ```
 .\ex2.go:10:23: invalid operation: a + b + c (mismatched types int and float64)
 ```
+
+## 相关学习笔记请看学习笔记.md
